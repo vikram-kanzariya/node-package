@@ -1,0 +1,25 @@
+{
+  "name": "calcs",
+  "version": "1.0.0",
+  "description": "a Simple and basic Calculator Package(+ , - , * /)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikram-kanzariya/node-package.git"
+  },
+  "keywords": [
+    "clacs",
+    "calculator",
+    "npm",
+    "calculator"
+  ],
+  "author": "vikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikram-kanzariya/node-package/issues"
+  },
+  "homepage": "https://github.com/vikram-kanzariya/node-package#readme"
+}
